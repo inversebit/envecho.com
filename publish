@@ -1,0 +1,4 @@
+git update-ref -d HEAD
+git add .
+git commit -am "Commit"
+git push --force --set-upstream origin master
